@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vp_in_4_26-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Unreal Prosjekter/VP_in_4_26/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "VP_in_4_26-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
