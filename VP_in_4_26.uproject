@@ -72,6 +72,10 @@
 		{
 			"Name": "RemoteControl",
 			"Enabled": true
+		},
+		{
+			"Name": "Switchboard",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
